@@ -19,7 +19,7 @@ To get started, make sure you have the following packages installed in the proje
 - winwifi (for managing your wireless network)
 - pyttsx3 (for generating speech from text)
 
-(Enter `pip install [package name]` in the terminal to install the packages).
+(Type `pip install [package name]` in the terminal inside the project directory to install a package).
 
 You can run this virtual assistant within a virtual environment on an IDE such as PyCharm.
 
