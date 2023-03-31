@@ -4,7 +4,8 @@ This is a Python-based virtual assistant
 
 This virtual assistant runs on your local machine and is compatible with Python 3.8.
 
-To get started, make sure you have the following packages installed in the project directory (use `pip install [package name]`):
+To get started, make sure you have the following packages installed in the project directory 
+(use `pip install [package name]`):
 - datetime (for all your date and time needs!)
 - stringcase (for formatting text)
 - requests-html (for scraping web content)
