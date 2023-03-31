@@ -1,0 +1,8 @@
+#!c:\users\shalin_a.j\pycharmprojects\pythonproject1\venv\scripts\python.exe
+import asyncio
+
+from withtool.main import main
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(main())
+loop.close()
